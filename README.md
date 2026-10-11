@@ -162,8 +162,8 @@ VITE_API_URL=http://localhost:5000/api
 
 ### 2. Clone the Repository
 ```bash
-git clone <repository_url>
-cd "Task managment"
+git clone https://github.com/armnkumar321-spec/task-management-system.git
+cd task-management-system
 ```
 
 ### 3. Setup Backend
@@ -213,14 +213,14 @@ Use these pre-seeded accounts to explore role-based permissions:
 
 Contributors can choose one of the following isolated issues:
 
-| # | Title | Issue File | Suggested Label |
-|---|---|---|---|
-| 1 | **[Feature] Implement task search by title and description** | [Specification](issues/issue-1-task-search.md) | `enhancement`, `good first issue` |
-| 2 | **[Feature] Fix task status filtering** | [Specification](issues/issue-2-task-status-filter.md) | `enhancement`, `good first issue` |
-| 3 | **[Feature] Implement priority filtering** | [Specification](issues/issue-3-priority-filter.md) | `enhancement`, `good first issue` |
-| 4 | **[Bug] Add client-side task form validation** | [Specification](issues/issue-4-task-form-validation.md) | `bug`, `good first issue` |
-| 5 | **[Feature] Complete Admin task assignment functionality** | [Specification](issues/issue-5-admin-task-assignment.md) | `enhancement` |
-| 6 | **[Feature] Add pagination to the task list** | [Specification](issues/issue-6-pagination.md) | `enhancement`, `good first issue` |
+| # | Title | Issue Link | Spec File | Suggested Label |
+|---|---|---|---|---|
+| 1 | **[Feature] Implement task search by title and description** | [#1 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/1) | [issue-1-task-search.md](issues/issue-1-task-search.md) | `enhancement`, `good first issue` |
+| 2 | **[Feature] Fix task status filtering** | [#2 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/2) | [issue-2-task-status-filter.md](issues/issue-2-task-status-filter.md) | `enhancement`, `good first issue` |
+| 3 | **[Feature] Implement priority filtering** | [#3 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/3) | [issue-3-priority-filter.md](issues/issue-3-priority-filter.md) | `enhancement`, `good first issue` |
+| 4 | **[Bug] Add client-side task form validation** | [#4 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/4) | [issue-4-task-form-validation.md](issues/issue-4-task-form-validation.md) | `bug`, `good first issue` |
+| 5 | **[Feature] Complete Admin task assignment functionality** | [#5 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/5) | [issue-5-admin-task-assignment.md](issues/issue-5-admin-task-assignment.md) | `enhancement` |
+| 6 | **[Feature] Add pagination to the task list** | [#6 on GitHub](https://github.com/armnkumar321-spec/task-management-system/issues/6) | [issue-6-pagination.md](issues/issue-6-pagination.md) | `enhancement`, `good first issue` |
 
 ---
 
